@@ -1,0 +1,6 @@
+{ "name": "rx",
+  "description": "Microsoft's RxJS",
+  "version": "0.0.1",
+  "keywords": ["reactive", "rx", "rxjs"],
+  "main": "./lib/rx",
+}
